@@ -1,48 +1,33 @@
-<h1 align="center">Hi there, I'm Vishrut Aditya Ratnoo 👋</h1>
-<h3 align="center">Electrical Engineering Undergrad @ IIT Jodhpur | AI/ML Enthusiast</h3>
+<h1 align="center">Vishrut Aditya Ratnoo[cite: 1]</h1>
+<h3 align="center">B.Tech. in Electrical Engineering | IIT Jodhpur (2023–2027)[cite: 1]</h3>
 
 <p align="center">
-  I am a final-year B.Tech student bridging the gap between deep learning algorithms and physical systems. My core interests lie in Core ML/DL, Agentic AI and NLP. 
+  I am an Electrical Engineering undergraduate at IIT Jodhpur (CGPA: 8.42) specializing in Generative AI, Deep Learning, and Computer Vision[cite: 1].
 </p>
 
 ---
 
-### 🔭 Current Focus & Research
-*   **Multimodal Cross-Modal Synthesis:** Researching generative models to predict tactile haptic signals from visual and auditory material properties utilizing the LMT-108 haptic dataset.
-*   **Agentic AI Architectures:** Exploring RAG, LangChain, LangGraph, and multi-agent frameworks to build robust, context-aware LLM applications.
-*   **Competitive Programming:** Continuously refining my data structures and algorithmic problem-solving skills in C++.
+### 🚀 Professional Experience[cite: 1]
+**AI Engineering Intern @ Tech Mahindra** *(May 2026 – Jul 2026)*[cite: 1]
+* **Autonomous Multi-Agent CAD Orchestrator:** Architected a multi-agent orchestration framework utilizing LangGraph and Azure OpenAI to automate end-to-end CAD drafting, reducing manual consolidation by ~70% and turnaround from days to under 4 hours[cite: 1]. Built a multimodal ingestion pipeline with Azure Document Intelligence and ezdxf, merging unstructured DWG, PDF, and email data into a unified JSON context with 95%+ accuracy[cite: 1]. Implemented a RAG-powered reasoning engine using Qdrant across 10,000+ architectural standards, which reduced design defects by 85%[cite: 1].
+* **Predictive ML Thermal Optimizer:** Designed and trained a predictive LightGBM machine learning pipeline on 500,000+ hardware telemetry records for chip-level DVFS, forecasting thermal loads with 95%+ accuracy[cite: 1]. Optimized feature extraction logic for sub-200ms inference latency, reducing data center cooling energy overhead by 15% and critical overheating events by 40%[cite: 1].
 
-### 🛠️ Tech Stack
+### 🔭 Key AI/ML Projects[cite: 1]
+* **Massive MIMO DL Optimization:** Replicated and extended a deep learning framework for multi-cell Massive MIMO power allocation, achieving 99.36% of optimal spectral efficiency[cite: 1]. Developed a 120-D dual-stream DenseNet reducing MSE by 70.1%, and compressed a 509k-parameter LSTM into a 16.2k-parameter Lightweight DenseNet[cite: 1].
+* **LaneNet Deep Neural Vision:** Replaced heuristic cost-matching with a deep neural label-assignment module integrated into CLRNet, improving curved lane detection F1 scores by up to 2.96%[cite: 1]. Trained and fine-tuned ResNet101 and DLA34-based vision models on the 100k+ image CULane benchmark using PyTorch and Albumentations[cite: 1].
 
-**Languages:** <br>
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737.svg?style=for-the-badge&logo=matlab&logoColor=white) 
+### 🛠️ Technical Arsenal[cite: 1]
+* **Languages:** Python, C/C++, SQL, HTML/CSS[cite: 1]
+* **Deep Learning & ML:** PyTorch, TensorFlow, Keras, Scikit-learn, LightGBM, Computer Vision, Time-Series Forecasting, Model Optimization[cite: 1]
+* **Generative AI & LLMs:** LangGraph, Azure OpenAI, Hugging Face Transformers, RAG, Multi-Agent Systems, Prompt Engineering, Qdrant (Vector DB)[cite: 1]
+* **Data & Backend:** Pandas, NumPy, Matplotlib, Seaborn, OpenCV, FastAPI, Flask, Streamlit, REST APIs[cite: 1]
 
-**AI, ML & Data Science:** <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Embedded Systems & Hardware:** <br>
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white) *(NXP IMX91, ESP8266, Cortex-M Assembly, Bare-Metal Firmware)*
-
-**Backend & Integration:** <br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🚀 Highlighted Experience & Projects
-*   **Data Center Thermal Optimization (Tech Mahindra):** Independently developed and deployed an AI frequency prediction module to model and optimize thermal management in data centers.
-*   **Smart Vault Monitoring System:** Built an asynchronous, interrupt-driven monitoring system using the STM32F4 Discovery board featuring bare-metal drivers and low-power sleep modes.
-*   **Li-Fi Ambient Noise Mitigation:** Designed and simulated denoising autoencoders in MATLAB to filter noise and adapt signals in Li-Fi communication networks.
+### 🏆 Coursework, Leadership & Achievements[cite: 1]
+* **Core Coursework:** Pattern Recognition and Machine Learning, Data Structures and Algorithms, Machine Learning for Communication, Embedded Systems, Probability Statistics and Stochastic Processes[cite: 1].
+* **Academic Excellence:** Achieved a 9.23 SGPA in the 5th semester of the Electrical Engineering curriculum[cite: 1].
+* **Leadership:** Captain of the Institute Lawn Tennis team for the 57th Inter-IIT Sports Meet[cite: 1]. Public Relations Assistant Head for Prometeo (Technical Fest)[cite: 1].
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishrut108&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Vishrut's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut108&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Vishrut's Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:vishrutratnoo108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/Vishrut Ratnoo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
+<p align="center">
+  <b>📫 Connect with Me:</b> <a href="mailto:vishrutratnoo108@gmail.com">vishrutratnoo108@gmail.com</a> | <b>GitHub:</b> <a href="https://github.com/Vishrut108">Vishrut108</a>[cite: 1]
+</p>
