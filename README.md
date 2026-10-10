@@ -88,7 +88,7 @@ LightGBM pipeline for chip-level DVFS on **500,000+** telemetry records.
 <td width="50%" valign="top">
 
 ### 📡 Massive MIMO DL Optimization
-*Under Dr. Suraj Srivastava · [Repo](https://github.com/Vishrut108)*
+*Under Dr. Suraj Srivastava · [Repo](https://github.com/Vishrut108/Massive-MIMO-DL-Power-Allocation)*
 
 - 🎯 **99.36%** of optimal spectral efficiency
 - 🧩 120-D dual-stream DenseNet (44.9k params) ➜ **70.1% lower MSE**
